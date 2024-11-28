@@ -7,7 +7,7 @@
 ## [Project Page](https://recondreamer.github.io/) | [Paper]()
 
 # News
-- **[2024/11/30]** Repository Initialization.
+- **[2024/11/29]** Repository Initialization.
 
 # Abstract 
 Closed-loop Simulation is Crucial for End-to-end Autonomous Driving. Existing sensor simulation methods (e.g., NeRF and 3DGS) reconstruct driving scenes based on conditions that closely mirror training data distributions. However, these methods struggle with rendering novel trajectories, such as lane changes. Recent work, DriveDreamer4D, has demonstrated that integrating world model knowledge alleviates these issues. Although the training-free integration approach is efficient, it still struggles to render larger maneuvers, such as multi-lane shifts.Therefore, we introduce **ReconDreamer**, which enhances driving scene reconstruction through incremental integration of world model knowledge. Specifically, based on the world model, *DriveRestorer* is proposed to mitigate ghosting artifacts via online restoration. Additionally, we propose the progressive data update strategy to ensure high-quality rendering for larger maneuvers. Notably, **ReconDreamer** is the first method to effectively render in large maneuvers (e.g., across multiple lanes, spanning up to 6 meters).Additionally, experimental results demonstrate that **ReconDreamer** outperforms Street Gaussians in the NTA-IoU, NTL-IoU, and FID, with a relative improvement by 24.87%, 6.72%, and 29.97%. Furthermore, **ReconDreamer** surpasses DriveDreamer4D with PVG during large maneuver rendering, as verified by a relative improvement of 195.87% in the NTA-IoU metric and a comprehensive user study.
