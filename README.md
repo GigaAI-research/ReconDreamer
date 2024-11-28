@@ -79,17 +79,3 @@ https://github.com/user-attachments/assets/07da54cf-7cd8-4159-8723-6bf708d25c87
 </div>
 
 
-
-
-# Bibtex
-If this work is helpful for your research, please consider citing the following BibTeX entry.
-
-```
-@inproceedings{zhao2024drive,
-    title={DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation}, 
-    author={Guosheng Zhao and Chaojun Ni and Xiaofeng Wang and Zheng Zhu and Xueyang Zhang and Yida Wang and Guan Huang and Xinze Chen and Boyuan Wang and Youyi Zhang and Wenjun Mei and Xingang Wang},
-    journal={arxiv arXiv preprint arXiv:2410.13571},
-    year={2024},
-}
-
-
