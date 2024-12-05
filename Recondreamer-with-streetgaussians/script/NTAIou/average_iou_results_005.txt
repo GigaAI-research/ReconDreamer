@@ -1,0 +1,29 @@
+Results for dataset: street_gaussians
+Average IoU for shift value -1: 0.5330
+Average IoU for shift value -2: 0.4984
+Average IoU for shift value -3: 0.4625
+Average IoU for shift value 1: 0.5229
+Average IoU for shift value 2: 0.5044
+Average IoU for shift value 3: 0.4566
+Average IoU for shift value 4: 0.3370
+Average IoU for shift value 5: 0.2420
+
+Results for dataset: recondreamer
+Average IoU for shift value -1: 0.5496
+Average IoU for shift value -2: 0.5335
+Average IoU for shift value -3: 0.4727
+Average IoU for shift value 1: 0.5428
+Average IoU for shift value 2: 0.5237
+Average IoU for shift value 3: 0.4958
+Average IoU for shift value 4: 0.4607
+Average IoU for shift value 5: 0.4333
+
+Improvement of recondreamer over street_gaussians:
+Shift value -1: recondreamer improved by 3.13%
+Shift value -2: recondreamer improved by 7.05%
+Shift value -3: recondreamer improved by 2.21%
+Shift value 1: recondreamer improved by 3.81%
+Shift value 2: recondreamer improved by 3.82%
+Shift value 3: recondreamer improved by 8.59%
+Shift value 4: recondreamer improved by 36.70%
+Shift value 5: recondreamer improved by 79.04%
