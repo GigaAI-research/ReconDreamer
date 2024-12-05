@@ -46,7 +46,7 @@ python script/test_gaussian_rasterization.py
 
 | Scene | Weight                                   | Data                                |
 |-------|------------------------------------------|-------------------------------------|
-| 005   | [Link to Weight](https://pan.baidu.com/s/1iElO_mg04nqiVsPV7DdTnw?pwd=ub9b) | [Link to Data](https://pan.baidu.com/s/1cLBQK0quZ-ek8Grr7U_EDg?pwd=76yy) |
+|segment-10359308928573410754_720_000_740_000_with_camera_labels.tfrecord   | [Link to Weight](https://pan.baidu.com/s/1iElO_mg04nqiVsPV7DdTnw?pwd=ub9b) | [Link to Data](https://pan.baidu.com/s/1cLBQK0quZ-ek8Grr7U_EDg?pwd=76yy) |
 ```
 Recondreamer/
 ├── config/
