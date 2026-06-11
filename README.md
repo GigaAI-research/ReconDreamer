@@ -44,9 +44,9 @@ python script/test_gaussian_rasterization.py
 
 ### Demo
 
-| Scene | Weight                                   | Data                                |
-|-------|------------------------------------------|-------------------------------------|
-|segment-10359308928573410754_720_000_740_000_with_camera_labels.tfrecord   | [Link to Weight](https://drive.google.com/file/d/1MLX6SIVTaQuhsDC9UKzjWw8eNn7zsvgJ/view?pli=1) | [Link to Data](https://pan.baidu.com/s/1cLBQK0quZ-ek8Grr7U_EDg?pwd=76yy) |
+| Scene | Weight and Data                                   |
+|-------|------------------------------------------|
+|segment-10359308928573410754_720_000_740_000_with_camera_labels.tfrecord   | [Link to Weight](https://drive.google.com/file/d/1MLX6SIVTaQuhsDC9UKzjWw8eNn7zsvgJ/view?pli=1) | 
 ```
 Recondreamer/
 ├── config/
